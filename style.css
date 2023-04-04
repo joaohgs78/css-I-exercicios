@@ -1,0 +1,87 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+main {
+    font-family: Helvetica;
+    
+}
+   
+
+#bloco-1{
+    height: 50%;
+    width: 50%;
+    background-color: orange;
+    border: 5px solid #f99400;
+    margin-bottom: 1rem;
+    margin: 50px auto;
+    text-align: center;
+    
+
+}
+
+#bloco-1:hover {
+    box-shadow: 10px 10px 10px black;
+    background-color: #8fd053;
+    border: 5px solid #8fd053;
+    cursor: pointer;
+}
+  
+
+#bloco-2{
+   
+    height: 50%;
+    width: 50%;
+    background-color: green;
+    border: 5px solid #62997a;
+    margin-bottom: 1rem;
+    margin: 50px auto;
+    text-align: center;
+
+}
+
+#bloco-2:hover {
+    box-shadow: 10px 10px 10px black;
+    background-color: #ed0b65;
+    border: 5px solid #ed0b65;
+    cursor: pointer;
+}
+
+#bloco-3{
+    height: 50%;
+    width: 50%;
+    background-color: #1f6764;
+    border: 5px dashed #b0da09;
+    margin-bottom: 1rem;
+    margin: 50px auto;
+    text-align: center;
+
+}
+
+#bloco-3:hover {
+    box-shadow: 10px 10px 10px black;
+    background-color: #FFFF00;
+    border: 5px solid #FFFF00;
+    cursor: pointer;
+}
+
+#bloco-4{
+    height: 50%;
+    width: 50%;
+    background-color: #fa2a00;
+    border: 5px dashed #ff5254;
+    margin-bottom: 1rem;
+    margin: 50px auto;
+    text-align: center;
+
+}
+#bloco-4:hover {
+    color: white;
+    box-shadow: 10px 10px 10px black;
+    background-color: black;
+    border: 5px solid black;
+    cursor: pointer;
+}
